@@ -6,7 +6,7 @@ def addition(a, b):
 def soustraction(a, b):
     return a - b
 
-# Fonction de multiplication
+
 def multiplication(a, b):
     return a * b
 
