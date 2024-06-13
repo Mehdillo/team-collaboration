@@ -2,7 +2,7 @@
 def addition(a, b):
     return a + b
 
-# Fonction de soustraction
+
 def soustraction(a, b):
     return a - b
 
