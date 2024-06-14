@@ -1,16 +1,16 @@
-
+# Fonction addition
 def addition(a, b):
     return a + b
 
-
+# Fonction soustraction
 def soustraction(a, b):
     return a - b
 
-
+# Fonction multiplication
 def multiplication(a, b):
     return a * b
 
-
+# Fonction division
 def division(a, b):
     if b == 0:
         return "Erreur! Division par zéro."
